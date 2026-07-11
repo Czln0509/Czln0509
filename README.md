@@ -2,7 +2,7 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=Czln0509&label=visitors&color=blueviolet&style=flat)
 
-> 数学建模 & 编程爱好者，工有所得，学有所用。
+> *悟已往之不见，知来者之可追*
 
 ## 🛠️ 语言和工具
 
