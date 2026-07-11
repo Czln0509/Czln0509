@@ -2,22 +2,17 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=Czln0509&label=visitors&color=blueviolet&style=flat)
 
-工有所得，学有所用。
-
-## 🔗 联系我
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/你的用户名)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/你的ID)
+> 数学建模 & 编程爱好者，工有所得，学有所用。
 
 ## 🛠️ 语言和工具
 
-![skills](https://skillicons.dev/icons?i=js,ts,unity,vue,androidstudio,nodejs,rust,cs)
+![skills](https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,vue,git)
 
 ## 📊 GitHub 数据
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Czln0509&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Czln0509&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Czln0509&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
